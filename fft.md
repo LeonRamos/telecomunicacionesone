@@ -118,4 +118,3 @@ Este enfoque proporciona una demostración práctica de cómo se puede utilizar 
 - [Norwegian Creations: What is FFT and How Can You Implement It on an Arduino?](https://www.norwegiancreations.com/2017/08/what-is-fft-and-how-can-you-implement-it-on-an-arduino/)
 ```
 
-Este archivo `.md` está listo para ser utilizado en GitHub o cualquier otra plataforma que soporte Markdown.
