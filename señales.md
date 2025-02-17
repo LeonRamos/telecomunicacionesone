@@ -1,4 +1,4 @@
-Aquí tienes el archivo `.md` para GitHub con la información proporcionada:
+Sistema Diagnóstico:
 
 ```markdown
 # Sistema de Diagnóstico Automotriz con Arduino y Compuerta NAND
@@ -111,4 +111,4 @@ Este sistema te permitirá observar cómo se comporta una compuerta NAND en toda
 - [Arduino implementation of logic gates](https://www.researchgate.net/publication/322159080_Digital_Logic_Gate_Simulation_using_Arduino_Microcontroller)
 ```
 
-Este archivo `.md` está listo para ser usado en GitHub o cualquier otra plataforma que soporte Markdown.
+
