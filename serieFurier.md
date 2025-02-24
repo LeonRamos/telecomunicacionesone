@@ -13,7 +13,7 @@ $$
 f(t) = \frac{a_0}{2} + \sum_{n=1}^{\infty} \left[ a_n \cos\left(\frac{2n\pi}{T}t\right) + b_n \sin\left(\frac{2n\pi}{T}t\right) \right]
 $$  
 
-Los coeficientes $$ a_n $$ y $$ b_n $$ se calculan mediante integrales que capturan la contribución de cada frecuencia a la señal original[5][8]. Esta descomposición es posible gracias a la ortogonalidad de las funciones trigonométricas, un principio que facilita el análisis armónico de sistemas físicos y señales[12].  
+Los coeficientes  a subindice n  y  b subindice n  se calculan mediante integrales que capturan la contribución de cada frecuencia a la señal original[5][8]. Esta descomposición es posible gracias a la ortogonalidad de las funciones trigonométricas, un principio que facilita el análisis armónico de sistemas físicos y señales[12].  
 
 ### Simetrías y Simplificaciones  
 Las propiedades de simetría (funciones pares o impares) reducen la complejidad de los cálculos. Por ejemplo, en funciones pares ($$ f(-t) = f(t) $$), los coeficientes $$ b_n $$ se anulan, mientras que en funciones impares ($$ f(-t) = -f(t) $$), desaparecen los $$ a_n $$[8]. Estas simplificaciones son vitales en aplicaciones prácticas como el diseño de filtros o la compresión de datos[10].  
